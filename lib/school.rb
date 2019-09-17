@@ -24,6 +24,7 @@ attr_accessor :name, :roster
   end
   
   def sort 
+  sorted = {}
   
   end
   
