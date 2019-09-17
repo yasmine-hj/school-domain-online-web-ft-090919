@@ -9,7 +9,7 @@ attr_accessor :name, :roster
     @roster = {}
   end
   
-  def 
+  def add_student
   
   
 end
