@@ -1,6 +1,6 @@
 # code here!
 
-attr_accessor
+attr_accessor :name, :roster
 
 class School
   def initialize (name)
