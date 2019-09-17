@@ -17,7 +17,8 @@ attr_accessor :name, :roster
     @roster[grade] = []
     @roster[grade] << student_name
    end
-    
   end
+  
+  def grade
   
 end
