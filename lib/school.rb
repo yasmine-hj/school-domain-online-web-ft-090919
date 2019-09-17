@@ -1,6 +1,6 @@
 # code here!
 
-
+attr_accessor
 
 class School
   def initialize (name)
