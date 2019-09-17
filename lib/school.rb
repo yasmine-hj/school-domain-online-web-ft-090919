@@ -9,5 +9,7 @@ attr_accessor :name, :roster
     @roster = {}
   end
   
+  def 
+  
   
 end
