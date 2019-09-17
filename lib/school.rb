@@ -23,8 +23,8 @@ attr_accessor :name, :roster
     @roster[student_grade]
   end
   
-  def sort (student_name)
-    student_name.sort
+  def sort (name)
+    name.sort
   end
   
 end
